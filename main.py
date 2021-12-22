@@ -9,4 +9,7 @@ print (list_power_of_three)
 
 for g in range (10):
     print(g)
-    
+
+for z in range (20):
+    if z >= 8:
+        print(z)

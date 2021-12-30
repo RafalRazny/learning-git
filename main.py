@@ -24,3 +24,5 @@ number = 0
 while number <= 10:
   print ("Liczba mniejsza niż 10" + str (number)
   number += 1
+
+print("Ale to było dobre")

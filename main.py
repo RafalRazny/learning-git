@@ -19,3 +19,8 @@ print("'Hiszpańska inkwizycja" to najlepszy skecz Monty Pythona")
 movies = ["Rambo", "Alien", "Star Wars"]
 for i in movies:
   print (i)
+
+number = 0
+while number <= 10:
+  print ("Liczba mniejsza niż 10" + str (number)
+  number += 1

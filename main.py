@@ -13,3 +13,5 @@ for g in range (10):
 for z in range (20):
     if z >= 8:
         print(z)
+ 
+print("'Hiszpańska inkwizycja" to najlepszy skecz Monty Pythona")

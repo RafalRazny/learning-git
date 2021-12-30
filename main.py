@@ -15,3 +15,7 @@ for z in range (20):
         print(z)
  
 print("'Hiszpańska inkwizycja" to najlepszy skecz Monty Pythona")
+
+movies = ["Rambo", "Alien", "Star Wars"]
+for i in movies:
+  print (i)
